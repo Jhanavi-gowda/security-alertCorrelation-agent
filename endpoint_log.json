@@ -1,0 +1,149 @@
+[
+  {
+    "timestamp": "2026-09-26T03:01:00",
+    "host": "WKS-3390",
+    "user": "j.chandru",
+    "event": "process_created",
+    "process": "chrome.exe"
+  },
+  {
+    "timestamp": "2026-09-26T03:06:00",
+    "host": "SRV-DB01",
+    "user": "r.singh",
+    "event": "process_created",
+    "process": "outlook.exe"
+  },
+  {
+    "timestamp": "2026-09-26T04:17:00",
+    "host": "WKS-3390",
+    "user": "s.rao",
+    "event": "process_created",
+    "process": "explorer.exe"
+  },
+  {
+    "timestamp": "2026-09-26T05:14:00",
+    "host": "WKS-4471",
+    "user": "r.singh",
+    "event": "process_created",
+    "process": "code.exe"
+  },
+  {
+    "timestamp": "2026-09-26T06:59:00",
+    "host": "SRV-DB01",
+    "user": "r.singh",
+    "event": "process_created",
+    "process": "code.exe"
+  },
+  {
+    "timestamp": "2026-09-26T07:08:00",
+    "host": "SRV-DB01",
+    "user": "p.iyer",
+    "event": "process_created",
+    "process": "outlook.exe"
+  },
+  {
+    "timestamp": "2026-09-26T07:14:00",
+    "host": "WKS-3390",
+    "user": "svc-backup-01",
+    "event": "process_created",
+    "process": "explorer.exe"
+  },
+  {
+    "timestamp": "2026-09-26T08:05:00",
+    "host": "WKS-5502",
+    "user": "s.rao",
+    "event": "process_created",
+    "process": "chrome.exe"
+  },
+  {
+    "timestamp": "2026-09-26T09:18:00",
+    "host": "WKS-4471",
+    "user": "j.chandru",
+    "event": "process_created",
+    "process": "powershell.exe -enc <base64>"
+  },
+  {
+    "timestamp": "2026-09-26T09:41:00",
+    "host": "SRV-DB01",
+    "user": "svc-backup-01",
+    "event": "process_created",
+    "process": "chrome.exe"
+  },
+  {
+    "timestamp": "2026-09-26T09:46:00",
+    "host": "WKS-5502",
+    "user": "r.singh",
+    "event": "process_created",
+    "process": "explorer.exe"
+  },
+  {
+    "timestamp": "2026-09-26T12:16:00",
+    "host": "WKS-4471",
+    "user": "p.iyer",
+    "event": "process_created",
+    "process": "code.exe"
+  },
+  {
+    "timestamp": "2026-09-26T12:21:00",
+    "host": "SRV-DB01",
+    "user": "j.chandru",
+    "event": "process_created",
+    "process": "outlook.exe"
+  },
+  {
+    "timestamp": "2026-09-26T12:38:00",
+    "host": "WKS-4471",
+    "user": "svc-backup-01",
+    "event": "process_created",
+    "process": "outlook.exe"
+  },
+  {
+    "timestamp": "2026-09-26T13:22:00",
+    "host": "SRV-DB01",
+    "user": "p.iyer",
+    "event": "process_created",
+    "process": "explorer.exe"
+  },
+  {
+    "timestamp": "2026-09-26T13:47:00",
+    "host": "SRV-DB01",
+    "user": "j.chandru",
+    "event": "process_created",
+    "process": "code.exe"
+  },
+  {
+    "timestamp": "2026-09-26T14:11:00",
+    "host": "WKS-3390",
+    "user": "svc-backup-01",
+    "event": "process_created",
+    "process": "chrome.exe"
+  },
+  {
+    "timestamp": "2026-09-26T14:41:00",
+    "host": "WKS-4471",
+    "user": "a.mehta",
+    "event": "process_created",
+    "process": "explorer.exe"
+  },
+  {
+    "timestamp": "2026-09-26T15:21:00",
+    "host": "WKS-4471",
+    "user": "r.singh",
+    "event": "process_created",
+    "process": "outlook.exe"
+  },
+  {
+    "timestamp": "2026-09-26T15:59:00",
+    "host": "WKS-3390",
+    "user": "a.mehta",
+    "event": "process_created",
+    "process": "outlook.exe"
+  },
+  {
+    "timestamp": "2026-09-26T16:56:00",
+    "host": "SRV-DB01",
+    "user": "svc-backup-01",
+    "event": "process_created",
+    "process": "outlook.exe"
+  }
+]
